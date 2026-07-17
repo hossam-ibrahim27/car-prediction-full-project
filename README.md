@@ -34,7 +34,7 @@ CAR_PREDICTION/
 │   └── upload_huggingface.py # Automated script to push trained models to Hugging Face
 ├── 📁 predict-frontend/      # React + TypeScript + Vite UI Application
 └── 📁 scripts/              # Helper utility scripts for data pipeline
----
+ ```
 
 ## 🛠️ Tech Stack & Architecture
  
