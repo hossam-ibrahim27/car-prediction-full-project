@@ -17,6 +17,7 @@ An end-to-end Machine Learning web application designed to predict used car pric
 * 🌐 **Frontend Application:** [https://car-prediction-reactjs.vercel.app](https://car-prediction-reactjs.vercel.app/)
 * ⚙️ **Backend API & Docs:** [Swagger Documentation](https://car-prediction-backend-production.up.railway.app/docs)
 * 🤖 **Hugging Face Model Hub:** [https://huggingface.co/hossam-ibrahim27](https://huggingface.co/Hossam-27/car-prediction-ml-model/tree/main)
+* 🎥 **Project Showcase Video:** [https://youtu.be/6d9KLD29iec](https://youtu.be/6d9KLD29iec) 
 
 ---
 
