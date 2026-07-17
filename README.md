@@ -58,6 +58,12 @@ CAR_PREDICTION/
  * **Containerization:** Fully **Dockerized** container setup ensuring reproducible server deployment.
  
 ---
+
+🔒 License & Intellectual Property
+
+Copyright (c) 2026 Hossam Ibrahim. All Rights Reserved.
+
+This repository and its source code are published for showcase, code review, and portfolio evaluation purposes only. No part of this software may be copied, modified, distributed, or used for commercial purposes without prior written permission from the owner.
  
 ### 3. Frontend Interface (`/predict-frontend`)
 * **Framework & Build:** **React 18** with **TypeScript** powered by **Vite** for fast performance and strong type safety.
