@@ -54,7 +54,12 @@ CAR_PREDICTION/
  * **Framework:** **FastAPI** for high-performance, asynchronous REST API endpoints.
  * **Model Hosting:** Integrated with **Hugging Face Hub** for cloud model artifact retrieval.
  * **Containerization:** Fully **Dockerized** container setup ensuring reproducible server deployment.
- 
+
+ ### 3. Frontend Interface (`/predict-frontend`)
+* **Framework & Build:** **React 18** with **TypeScript** powered by **Vite** for fast performance and strong type safety.
+* **Styling:** **Tailwind CSS** for a responsive, modern visual UI.
+* **API Integration:** **Axios** client handling real-time asynchronous requests to prediction services.
+  
 ---
 
 ## 🔒 License & Intellectual Property
@@ -62,8 +67,5 @@ CAR_PREDICTION/
 Copyright (c) 2026 Hossam Ibrahim. All Rights Reserved.
 
 This repository and its source code are published for showcase, code review, and portfolio evaluation purposes only. No part of this software may be copied, modified, distributed, or used for commercial purposes without prior written permission from the owner.
+
  
-### 3. Frontend Interface (`/predict-frontend`)
-* **Framework & Build:** **React 18** with **TypeScript** powered by **Vite** for fast performance and strong type safety.
-* **Styling:** **Tailwind CSS** for a responsive, modern visual UI.
-* **API Integration:** **Axios** client handling real-time asynchronous requests to prediction services.
