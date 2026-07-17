@@ -62,5 +62,5 @@ CAR_PREDICTION/
  
 ### 3. Frontend Interface (`/predict-frontend`)
 * **Framework & Build:** **React 18** with **TypeScript** powered by **Vite** for fast performance and strong type safety.
-* * **Styling:** **Tailwind CSS** for a responsive, modern visual UI.
+* **Styling:** **Tailwind CSS** for a responsive, modern visual UI.
 * **API Integration:** **Axios** client handling real-time asynchronous requests to prediction services.
