@@ -50,8 +50,6 @@ CAR_PREDICTION/
  * **Feature Engineering:** Applied Target Encoding, One-Hot Encoding, feature scaling, and robust missing value imputation.
  * **Model Training:** Evaluated regression algorithms for accurate price estimation with complete pipeline serialization.
  
----
- 
  ### 2. Backend Service (`/predict_backend`)
  * **Framework:** **FastAPI** for high-performance, asynchronous REST API endpoints.
  * **Model Hosting:** Integrated with **Hugging Face Hub** for cloud model artifact retrieval.
@@ -59,7 +57,7 @@ CAR_PREDICTION/
  
 ---
 
-🔒 License & Intellectual Property
+## 🔒 License & Intellectual Property
 
 Copyright (c) 2026 Hossam Ibrahim. All Rights Reserved.
 
